@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bdoor-b/SWE363Project.git/static/css/main.bbdb45d7.css",
+    "main.js": "/bdoor-b/SWE363Project.git/static/js/main.047f140b.js",
+    "static/js/453.d855a71b.chunk.js": "/bdoor-b/SWE363Project.git/static/js/453.d855a71b.chunk.js",
+    "index.html": "/bdoor-b/SWE363Project.git/index.html",
+    "main.bbdb45d7.css.map": "/bdoor-b/SWE363Project.git/static/css/main.bbdb45d7.css.map",
+    "main.047f140b.js.map": "/bdoor-b/SWE363Project.git/static/js/main.047f140b.js.map",
+    "453.d855a71b.chunk.js.map": "/bdoor-b/SWE363Project.git/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbdb45d7.css",
+    "static/js/main.047f140b.js"
+  ]
+}
