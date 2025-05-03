@@ -1,15 +1,10 @@
 import axios from 'axios';
 
 const instance = axios.create({
-  baseURL: "http://localhost:5001", // the backend URL
+  baseURL: process.env.REACT_APP_API_URL || "http://localhost:5001", // use .env or fallback
   headers: {
     'Content-Type': 'application/json',
   },
-
-  baseURL: process.env.REACT_APP_API_URL,
 });
-
-
-
 
 export default instance;
